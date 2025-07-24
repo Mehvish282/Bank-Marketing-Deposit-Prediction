@@ -54,6 +54,6 @@ This project explores a **supervised machine learning approach** using a **Decis
 
 ```bash
 ├── bank_marketing_decision_tree.ipynb   # Main notebook
-├── bank.csv                             # Dataset (if public)
+├── bank_full.csv                             # Dataset 
 ├── README.md                            # Project overview
 └── LICENSE                              # Open-source license (MIT)
